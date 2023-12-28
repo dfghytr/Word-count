@@ -1,5 +1,4 @@
-
-### Step 4: # Word-count
+# Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
@@ -17,6 +16,7 @@ Read the text using read() function.
 ### Step 3: 
 Split the text using space separator .we assume that words in a sentence are separated by a space character.
 
+### Step 4:
 The length of the split list should equal the numbe of words in the text file. 
 
 ### Step 5:
